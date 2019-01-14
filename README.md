@@ -1,2 +1,2 @@
 # hello-world
-just a start
+I am an aspiring all-around programmer
